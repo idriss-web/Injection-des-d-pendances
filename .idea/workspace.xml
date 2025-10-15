@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c8f3675-08cd-4c87-8b97-42aa37035f2e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../flutter_windows_3.35.4-stable/flutter/examples/catalog/catalog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_windows_3.35.4-stable/flutter/examples/flutter_gallery/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_windows_3.35.4-stable/flutter/examples/flutter_gallery/flutter_gallery.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_windows_3.35.4-stable/flutter/examples/flutter_view/flutter_view.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_windows_3.35.4-stable/flutter/examples/hello_world/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_windows_3.35.4-stable/flutter/examples/hello_world/hello_world.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_windows_3.35.4-stable/flutter/examples/layers/layers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_windows_3.35.4-stable/flutter/examples/platform_channel/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_windows_3.35.4-stable/flutter/examples/platform_channel/platform_channel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_windows_3.35.4-stable/flutter/examples/platform_channel_swift/platform_channel_swift.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_windows_3.35.4-stable/flutter/examples/platform_view/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_windows_3.35.4-stable/flutter/examples/platform_view/full_platform_view.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_windows_3.35.4-stable/flutter/examples/stocks/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_windows_3.35.4-stable/flutter/examples/stocks/stocks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_windows_3.35.4-stable/flutter/packages/flutter/flutter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_windows_3.35.4-stable/flutter/packages/flutter_driver/flutter_driver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_windows_3.35.4-stable/flutter/packages/flutter_localizations/flutter_localizations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_windows_3.35.4-stable/flutter/packages/flutter_test/flutter_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_windows_3.35.4-stable/flutter/packages/flutter_tools/flutter_tools.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Injection des dépendances/.idea/TP1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Injection_des_dependences/Injection_des_dependences.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/mundiapolis/ioc/dao/DaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/mundiapolis/ioc/dao/DaoImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/mundiapolis/ioc/dao/IDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/mundiapolis/ioc/metier/IMetier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/mundiapolis/ioc/metier/MetierImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/mundiapolis/ioc/pres/PresSpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/mundiapolis/ioc/pres/PresenSpringAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/mundiapolis/ioc/pres/Presentation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SPRING/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/final.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="33mLpblSEZbYGVCOoQJLLQCq90H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.PresSpring.executor": "Run",
+    "Application.Presentation.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/pc/Desktop/save/mundiapolis/java TOP/TPs/PROJET-TP/src/main/java/ma/mundiapolis/ioc",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/pc/Desktop/save/mundiapolis/java TOP/TPs/PROJET-TP/src/main/java/com/projet/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pc\Desktop\save\mundiapolis\java TOP\TPs\PROJET-TP\src\main\java\ma\mundiapolis\ioc" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PresSpring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ma.mundiapolis.ioc.pres.PresSpring" />
+      <module name="PROJET-TP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ma.mundiapolis.ioc.pres.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PresSpring" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c8f3675-08cd-4c87-8b97-42aa37035f2e" name="Changes" comment="" />
+      <created>1759917486049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759917486049</updated>
+      <workItem from="1759917487007" duration="5467000" />
+      <workItem from="1760503339959" duration="1840000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
